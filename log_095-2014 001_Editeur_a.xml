@@ -1,0 +1,54 @@
+<batchrender>
+  <environmentinfo>
+    <machineinfo>
+      <machinename>WOLRAJHTI</machinename>
+      <username>pierre</username>
+      <processortype>GenuineIntel, stepping 10, model 7, instruction family 6</processortype>
+      <processorname>Intel Core 2 Quad CPU Q9550 </processorname>
+      <processornumber>4</processornumber>
+      <ostype>WINDOWS 64 BIT</ostype>
+      <osversion>Windows 8, 64 Bit, Professional Edition (build 9200)</osversion>
+      <oglvendorname>NVIDIA Corporation</oglvendorname>
+      <oglrendername>GeForce GTX 760/PCIe/SSE2</oglrendername>
+      <oglversion>4.5.0 NVIDIA 353.54</oglversion>
+    </machineinfo>
+    <c4dinfo>
+      <c4dversion>15008</c4dversion>
+      <c4dplugins>addons alembic allplan ArchiCADExchange bitmapfilter bp2lw bp2max bp2maya bp2xsi browser characteranim cameramapper collada14 collada15 compositing dwg dwgobjects fbx expressiontag graphviewcore modeling motioncam netrender newman objects onlinehelp onlineupdater OpenEXR python relaxuv sculpt sculptbrushes shader sla spacemouse texturemanager updatemerge xtensions advancedrender cineman sky archigrass walkthrough dynamics2 iges OkinoComClient hair ca2 clothilde mocca motiongraphics sketch thinkingparticles tpoperators </c4dplugins>
+    </c4dinfo>
+  </environmentinfo>
+  <fileinfo>
+    <filename>095-2014 001.c4d</filename>
+    <filepath>C:\Users\pierre\Desktop\piscine</filepath>
+    <renderdatainfo>
+      <rendersettings>Mon r&#x00E9;glage de rendu</rendersettings>
+      <camera>Editeur cam&#x00E9;ra</camera>
+      <width>1920</width>
+      <height>1200</height>
+      <filmaspect>1.6</filmaspect>
+      <pixelaspect>1</pixelaspect>
+      <fps>30</fps>
+      <from>0</from>
+      <to>0</to>
+      <steps>1</steps>
+      <saveinfo>
+        <imagepath>C:\Users\pierre\Desktop\piscine</imagepath>
+        <imagedepth>8</imagedepth>
+        <imageformat>TIFF (calques PSD)</imageformat>
+      </saveinfo>
+      <videopost>
+        <effect id="1021096" name="Illumination globale" />
+        <effect id="1001009" name="Rendu cellulo" />
+      </videopost>
+    </renderdatainfo>
+  </fileinfo>
+  <renderinfo>
+    <imageinfo>00:00:18 </imageinfo>
+  </renderinfo>
+  <batchinfo>
+    <added>29/10/2016, 09:11:15</added>
+    <started>29/10/2016, 09:11:35</started>
+    <rendertime>00:00:19 </rendertime>
+    <result>Termin&#x00E9;e</result>
+  </batchinfo>
+</batchrender>
